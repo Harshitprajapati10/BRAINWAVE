@@ -38,7 +38,7 @@ const Header = () => {
         <a className="block w-[12rem] xl:mr-8" href="#hero">
           <img src={brainwaveHarshit} width={55} height={8} alt="Brainwave" />
         </a>
-        <p class="text-4xl font-edu-vic-wa-nt-beginner absolute left-[108px] font-bold font-['Montserrat Bold'] ">IRON Media</p>
+        <p class="text-3xl font-edu-vic-wa-nt-beginner absolute left-[108px] font-bold font-['Montserrat Bold'] ">IRON Media</p>
         <nav
           className={`${
             openNavigation ? "flex" : "hidden"
