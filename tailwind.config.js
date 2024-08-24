@@ -38,6 +38,7 @@ export default {
         sans: ["var(--font-sora)", ...fontFamily.sans],
         code: "var(--font-code)",
         grotesk: "var(--font-grotesk)",
+        'edu-vic-wa-nt-beginner': ['var(--font-edu-vic-wa-nt-beginner)', 'cursive'],
       },
       letterSpacing: {
         tagline: ".15em",
