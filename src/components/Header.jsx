@@ -65,13 +65,13 @@ const Header = () => {
         </nav>
 
         <a
-          href="#signup"
+          href="https://forms.gle/483nT3Ej919GHZg38"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           Contact Us
         </a>
-        <Button className="hidden lg:flex" href="#login">
-          Here
+        <Button className="hidden lg:flex" href="https://forms.gle/64UuDcQHKDXRxifH9">
+          Work with us
         </Button>
 
         <Button

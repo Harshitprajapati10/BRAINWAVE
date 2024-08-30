@@ -59,8 +59,8 @@ export const navigation = [
   },
   {
     id: "4",
-    title: "Contact Us",
-    url: "#signup",
+    title: "Work with Us",
+    url: "https://forms.gle/64UuDcQHKDXRxifH9",
     onlyMobile: true,
   },
 ];
