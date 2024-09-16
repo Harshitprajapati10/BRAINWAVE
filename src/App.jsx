@@ -8,26 +8,20 @@ import Pricing from "./components/Pricing";
 import Roadmap from "./components/Roadmap";
 import Services from "./components/Services";
 import { Routes, Route } from "react-router-dom";
-import Featuresoverview from "./components/Featuresoverview"
 
 const App = () => {
   return (
     <>
       <Header />
-      <Routes>
-          <Route path="/" element={<>
-              <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
-                <Hero />
-                <Benefits />
-                <Collaboration />
-                <Services />
-                <Pricing />
-                <Roadmap />
-              </div>
-              <ButtonGradient /></>
-          } />
-          <Route path="/features" element={<Featuresoverview />} />
-      </Routes>
+      <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
+        <Hero />
+        <Benefits />
+        <Collaboration />
+        <Services />
+        <Pricing />
+        <Roadmap />
+      </div>
+      <ButtonGradient />
       <Footer />
     </>
   );
