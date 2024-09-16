@@ -1,6 +1,6 @@
 import { useLocation } from "react-router-dom";
 import { disablePageScroll, enablePageScroll } from "scroll-lock";
-import { brainwaveHarshit } from "../assets";
+import { premiumH } from "../assets";
 import { navigation } from "../constants";
 import Button from "./Button";
 import MenuSvg from "../assets/svg/MenuSvg";
@@ -35,10 +35,10 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4">
         <a className="block w-[12rem] absolute lg:left-[41px] left-[8px] xl:mr-8" href="#hero">
-          <img src={brainwaveHarshit} width={46} height={7} alt="Brainwave" />
+          <img src={premiumH} width={46} height={7} alt="Brainwave" />
         </a>
         <p class="text-3xl font-edu-vic-wa-nt-beginner absolute font-bold left-[65px] lg:left-[105px]">
-          IRON Media
+          premiumH
         </p>
         <nav
           className={`${openNavigation ? "flex" : "hidden"
