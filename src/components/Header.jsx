@@ -65,12 +65,12 @@ const Header = () => {
         </nav>
 
         <a
-          href="https://forms.gle/483nT3Ej919GHZg38"
+          href="https://forms.gle/dUuSEivkRH51VxNN7"
           className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block"
         >
           Contact Us
         </a>
-        <Button className="hidden lg:flex" href="https://forms.gle/64UuDcQHKDXRxifH9">
+        <Button className="hidden lg:flex" href="https://forms.gle/Jy5xHtwzDAfckFUx6">
           Work with us
         </Button>
 

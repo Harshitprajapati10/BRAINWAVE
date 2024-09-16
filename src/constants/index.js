@@ -60,7 +60,7 @@ export const navigation = [
   {
     id: "4",
     title: "Work with Us",
-    url: "https://forms.gle/64UuDcQHKDXRxifH9",
+    url: "https://forms.gle/Jy5xHtwzDAfckFUx6",
     onlyMobile: true,
   },
 ];

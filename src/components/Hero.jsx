@@ -40,7 +40,7 @@ const Hero = () => {
             What we know is a drop what we don't know is an ocean. 
             Let's dive into the ocean and explore something great.
           </p>
-          <Button href="https://forms.gle/483nT3Ej919GHZg38" white>
+          <Button href="https://forms.gle/dUuSEivkRH51VxNN7" white>
             Get started
           </Button>
         </div>
