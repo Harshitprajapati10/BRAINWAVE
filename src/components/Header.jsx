@@ -37,7 +37,7 @@ const Header = () => {
         <a className="block w-[12rem] absolute lg:left-[41px] left-[8px] xl:mr-8" href="#hero">
           <img src={premiumH} width={46} height={7} alt="Brainwave" />
         </a>
-        <p class="text-3xl font-edu-vic-wa-nt-beginner absolute font-bold left-[65px] lg:left-[105px]">
+        <p className="text-3xl font-edu-vic-wa-nt-beginner absolute font-bold left-[65px] lg:left-[105px]">
           premiumH
         </p>
         <nav
