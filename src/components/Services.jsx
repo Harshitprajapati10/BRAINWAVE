@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Expert Services for Ambitious Entrepreneurs."
-          text="Growwave unlocks the potential of outsourced services for your growth"
+          text="PremiumH unlocks the potential of outsourced services for your growth"
         />
 
         <div className="relative">
@@ -66,10 +66,9 @@ const Services = () => {
               </div>
 
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/90 lg:p-15">
-                <h4 className="h4 mb-4">Photo editing</h4>
+                <h4 className="h4 mb-4">Enhance your business</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                  Automatically enhance your photos using our AI app&apos;s
-                  photo editing feature. Try it now!
+                  enhance your business using our massive feature. Try it now!
                 </p>
               </div>
 
@@ -78,10 +77,9 @@ const Services = () => {
 
             <div className="p-4 bg-n-7 rounded-3xl overflow-hidden lg:min-h-[46rem]">
               <div className="py-12 px-4 xl:px-8">
-                <h4 className="h4 mb-4">Video generation</h4>
+                <h4 className="h4 mb-4">Service Done!</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
-                  The world’s most powerful AI photo and video art generation
-                  engine. What will you create?
+                  Complete your services from the best developers.
                 </p>
 
                 <ul className="flex items-center justify-between">

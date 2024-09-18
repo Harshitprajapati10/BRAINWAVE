@@ -44,6 +44,7 @@ const App = () => {
         </div>
       </div>
      )} 
+
       {!showImage && (
         <>
           <Header />
@@ -53,12 +54,13 @@ const App = () => {
             <Collaboration />
             <Services />
             <Pricing />
-            <Roadmap />
+            {/* <Roadmap /> */}
           </div>
           <ButtonGradient />
           <Footer />
         </>
       )}
+
     </>
   );
 };
