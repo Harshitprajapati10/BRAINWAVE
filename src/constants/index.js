@@ -88,37 +88,38 @@ export const brainwaveServicesIcons = [
 export const roadmap = [
   {
     id: "0",
-    title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
+    title: "Referal",
+    text: "Refer our services to clients and get 10% of the servicing fee.",
+    date: "Sep 2024",
     status: "done",
     imageUrl: roadmap1,
     colorful: true,
   },
   {
     id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
-    status: "progress",
-    imageUrl: roadmap2,
-  },
-  {
-    id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
+    title: "Pro programmer",
+    text: "Work for us and get paid on basis of projects.",
+    date: "Oct 2024",
     status: "done",
-    imageUrl: roadmap3,
+    imageUrl: roadmap2,
+    colorful:true,
   },
-  {
-    id: "3",
-    title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
-    status: "progress",
-    imageUrl: roadmap4,
-  },
+  // {
+  //   id: "2",
+  //   title: "Chatbot customization",
+  //   text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
+  //   date: "May 2023",
+  //   status: "done",
+  //   imageUrl: roadmap3,
+  // },
+  // {
+  //   id: "3",
+  //   title: "Integration with APIs",
+  //   text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
+  //   date: "May 2023",
+  //   status: "progress",
+  //   imageUrl: roadmap4,
+  // },
 ];
 
 export const collabText =
@@ -306,7 +307,7 @@ export const socials = [
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/premiumhofficial/",
   },
   {
     id: "3",
@@ -318,6 +319,6 @@ export const socials = [
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/people/Premiumhofficial/61566407513170/",
   },
 ];

@@ -54,7 +54,7 @@ const App = () => {
             <Collaboration />
             <Services />
             <Pricing />
-            {/* <Roadmap /> */}
+            <Roadmap />
           </div>
           <ButtonGradient />
           <Footer />
