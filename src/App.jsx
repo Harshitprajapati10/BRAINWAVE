@@ -7,6 +7,7 @@ import Hero from "./components/Hero";
 import Pricing from "./components/Pricing";
 import Roadmap from "./components/Roadmap";
 import Services from "./components/Services";
+import Userspremium from "./components/Userspremium"
 import React, { useState, useEffect } from "react";
 import { premiumH } from "./assets";
 
@@ -55,6 +56,7 @@ const App = () => {
             <Services />
             <Pricing />
             <Roadmap />
+            <Userspremium/>
           </div>
           <ButtonGradient />
           <Footer />

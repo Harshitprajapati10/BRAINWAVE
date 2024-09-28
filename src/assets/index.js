@@ -75,8 +75,15 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
+
+import premiumh1 from "./premiumhusers/premiumH.png"
+import user1 from "./premiumhusers/darwin.jpg"
+
 // import brainwaveHarshit from "../assets/brainwaveHarshit.png"
-import premiumH from "../assets/premiumH.png"
+import premiumH from "../assets/premiumH.png";
+import insta from "./insta.svg"
+import linki from "./linki.svg"
+import github from "./github.svg"
 export {
   brainwave,
   check,
@@ -147,4 +154,11 @@ export {
   telegram,
   twitter,
   premiumH,
+
+  premiumh1,
+  user1,
+
+  insta,
+  linki,
+  github,
 };
