@@ -205,11 +205,11 @@ export const pricing = [
     id: "0",
     title: "Basic",
     description: "Starting with",
-    price: "0",
+    price: "99",
     features: [
       "Get your first service on premiumH",
-      "get your fist service for free on premiumH",
-      "Ability to explore our features without any cost",
+      "get your fist service for very low cost on premiumH",
+      "Ability to explore our features easily",
     ],
   },
   {
