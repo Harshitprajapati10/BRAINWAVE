@@ -78,6 +78,7 @@ import twitter from "./socials/twitter.svg";
 
 import premiumh1 from "./premiumhusers/premiumH.png"
 import user1 from "./premiumhusers/darwin.jpg"
+import superuser from "./premiumhusers/superuser.jpeg"
 
 // import brainwaveHarshit from "../assets/brainwaveHarshit.png"
 import premiumH from "../assets/premiumH.png";
@@ -161,4 +162,5 @@ export {
   insta,
   linki,
   github,
+  superuser,
 };
