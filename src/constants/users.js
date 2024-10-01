@@ -1,4 +1,4 @@
-import { user1, superuser } from "../assets"
+import { user1, superuser, user2 } from "../assets"
 import { premiumh1 } from "../assets"
 
 export const users = [
@@ -28,20 +28,13 @@ export const users = [
         instagram : "https://www.instagram.com/darwincodex/",
         github:"https://github.com/darwin120197"
     },
-    
-    // {
-    //     id: "2",
-    //     name :"mr vin",
-    //     title: "emg",
-    //     location : "india",
-    //     imageUrl: telegram,
-    // },
-    // {
-    //     id: "3",
-    //     name :"mr ga",
-    //     title: "wid",
-    //     location : "india",
-    //     imageUrl: telegram,
-    // },
-    
+    {
+        id: "3",
+        name :"Sufiyan Malik",
+        title: "frontend developer",
+        location : "India",
+        imageUrl: user2,
+        instagram : "https://www.instagram.com/mallik_100/",
+        linkedin:"https://www.linkedin.com/in/sufiyan-malik-9002b8213",
+    },  
 ]

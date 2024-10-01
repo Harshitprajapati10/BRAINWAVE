@@ -75,10 +75,11 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
-
+//users
 import premiumh1 from "./premiumhusers/premiumH.png"
 import user1 from "./premiumhusers/darwin.jpg"
 import superuser from "./premiumhusers/superuser.jpeg"
+import user2 from "./premiumhusers/user2.jpeg"
 
 // import brainwaveHarshit from "../assets/brainwaveHarshit.png"
 import premiumH from "../assets/premiumH.png";
@@ -158,6 +159,7 @@ export {
 
   premiumh1,
   user1,
+  user2,
 
   insta,
   linki,
