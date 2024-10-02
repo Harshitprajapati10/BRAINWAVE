@@ -80,6 +80,8 @@ import premiumh1 from "./premiumhusers/premiumH.png"
 import user1 from "./premiumhusers/darwin.jpg"
 import superuser from "./premiumhusers/superuser.jpeg"
 import user2 from "./premiumhusers/user2.jpeg"
+import user3 from "./premiumhusers/user3.jpeg"
+import user4 from "./premiumhusers/user4.jpg"
 
 // import brainwaveHarshit from "../assets/brainwaveHarshit.png"
 import premiumH from "../assets/premiumH.png";
@@ -160,6 +162,8 @@ export {
   premiumh1,
   user1,
   user2,
+  user3,
+  user4,
 
   insta,
   linki,

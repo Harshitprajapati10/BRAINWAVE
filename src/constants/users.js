@@ -1,4 +1,11 @@
-import { user1, superuser, user2 } from "../assets"
+import {
+     user1,
+     superuser,
+     user2,
+     user3,
+     user4,
+
+ } from "../assets"
 import { premiumh1 } from "../assets"
 
 export const users = [
@@ -36,5 +43,24 @@ export const users = [
         imageUrl: user2,
         instagram : "https://www.instagram.com/mallik_100/",
         linkedin:"https://www.linkedin.com/in/sufiyan-malik-9002b8213",
+    },  
+    {
+        id: "4",
+        name :"Prashant Gatkawar",
+        title: "React Developer",
+        location : "India",
+        imageUrl: user3,
+        instagram : "https://www.instagram.com/ps_gatkawar23/",
+        linkedin:"https://www.linkedin.com/in/prashant-gatkawar-1b7237189/",
+         github:"https://github.com/parshyagk23/",
+    },  
+    {
+        id: "5",
+        name :"Nicolás Díaz",
+        title: "Full stack Developer",
+        location : "Argentina",
+        imageUrl: user4,
+        instagram : "https://www.instagram.com/9nicolasdiaz_/",
+        linkedin:"https://www.linkedin.com/in/nicol%C3%A1s-d%C3%ADaz-09aa02208/",
     },  
 ]
