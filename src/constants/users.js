@@ -4,6 +4,9 @@ import {
      user2,
      user3,
      user4,
+     user5,
+     user6,
+     github,
 
  } from "../assets"
 import { premiumh1 } from "../assets"
@@ -52,7 +55,7 @@ export const users = [
         imageUrl: user3,
         instagram : "https://www.instagram.com/ps_gatkawar23/",
         linkedin:"https://www.linkedin.com/in/prashant-gatkawar-1b7237189/",
-         github:"https://github.com/parshyagk23/",
+        github:"https://github.com/parshyagk23/",
     },  
     {
         id: "5",
@@ -62,5 +65,25 @@ export const users = [
         imageUrl: user4,
         instagram : "https://www.instagram.com/9nicolasdiaz_/",
         linkedin:"https://www.linkedin.com/in/nicol%C3%A1s-d%C3%ADaz-09aa02208/",
+    },  
+    {
+        id: "6",
+        name :"Tanmay Meshram",
+        title: "full stack developer",
+        location : "India",
+        imageUrl: user5,
+        instagram : "https://www.instagram.com/tmtanmay3466/",
+        linkedin:"https://www.linkedin.com/in/tanmay-meshram-614727233/",
+        github:"https://github.com/TMTanmay1"
+    },  
+    {
+        id: "7",
+        name :"Dania Alsamman",
+        title: "front end developer",
+        location : "Türkiye",
+        imageUrl: user6,
+        instagram : "https://www.instagram.com/dania.alsaman/",
+        linkedin:"https://www.linkedin.com/in/dania-alsamman/",
+        github:"https://github.com/daniaalsaman"
     },  
 ]

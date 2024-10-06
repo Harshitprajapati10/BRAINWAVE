@@ -82,12 +82,15 @@ import superuser from "./premiumhusers/superuser.jpeg"
 import user2 from "./premiumhusers/user2.jpeg"
 import user3 from "./premiumhusers/user3.jpeg"
 import user4 from "./premiumhusers/user4.jpg"
+import user5 from "./premiumhusers/user5.jpeg"
+import user6 from "./premiumhusers/user6.jpeg"
 
 // import brainwaveHarshit from "../assets/brainwaveHarshit.png"
 import premiumH from "../assets/premiumH.png";
 import insta from "./insta.svg"
 import linki from "./linki.svg"
 import github from "./github.svg"
+
 export {
   brainwave,
   check,
@@ -164,6 +167,8 @@ export {
   user2,
   user3,
   user4,
+  user5,
+  user6,
 
   insta,
   linki,
